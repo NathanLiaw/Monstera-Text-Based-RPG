@@ -1,0 +1,30 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+  main.cpp
+D:\Study\Year_2_Sem_2\COS30008 Data Structures and Patterns\Programming Project\COS30008_PP_102772453_JonathanLiawSzeYung\Test\main.cpp(128,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Study\Year_2_Sem_2\COS30008 Data Structures and Patterns\Programming Project\COS30008_PP_102772453_JonathanLiawSzeYung\Test\main.cpp(129,74): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Study\Year_2_Sem_2\COS30008 Data Structures and Patterns\Programming Project\COS30008_PP_102772453_JonathanLiawSzeYung\Test\main.cpp(130,74): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Study\Year_2_Sem_2\COS30008 Data Structures and Patterns\Programming Project\COS30008_PP_102772453_JonathanLiawSzeYung\Test\main.cpp(189,61): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Study\Year_2_Sem_2\COS30008 Data Structures and Patterns\Programming Project\COS30008_PP_102772453_JonathanLiawSzeYung\Test\main.cpp(189,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+  Test.vcxproj -> D:\Study\Year_2_Sem_2\COS30008 Data Structures and Patterns\Programming Project\COS30008_PP_102772453_JonathanLiawSzeYung\x64\Debug\COS30008_PP_102772453_JonathanLiawSzeYung.exe
