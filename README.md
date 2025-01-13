@@ -12,7 +12,7 @@ Monstera is a text-based roguelike RPG game developed as part of a programming p
 
 - Progress through the story to uncover secrets and face the ultimate foe.
 
-# Prerequisites
+## Prerequisites
 
 To set up and run this project, ensure the following:
 
@@ -33,15 +33,15 @@ To set up and run this project, ensure the following:
   - Ensure you download the version that matches your compiler and system architecture (e.g., 64-bit).
 
 
-# Contributing
+## Contributing
 
 If you want to contribute to Monstera or suggest improvements, feel free to submit a pull request or open an issue on this repository.
 
-# License
+## License
 
 This project is licensed under the MIT License. Feel free to use and modify it as you see fit.
 
-# Acknowledgments
+## Acknowledgments
 
 SFML: For providing a simple and powerful graphics library for C++.
 
